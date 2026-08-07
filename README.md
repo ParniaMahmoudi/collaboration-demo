@@ -1,6 +1,7 @@
 # Collaboration Demo Project
 
-This project is used to practice Git and GitHub collaboration workflow.
+## Overview
+This is a demonstration project created to showcase GitHub collaboration, code reviews, and CI workflows.
 
 ## Features
 - Complete project overview and explanations
